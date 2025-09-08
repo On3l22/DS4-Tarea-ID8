@@ -1,0 +1,14 @@
+C:\Users\alexi\source\repos\CalculoAreaCirculo\CalculoAreaCirculo\bin\Debug\net8.0\CalculoAreaCirculo.exe
+C:\Users\alexi\source\repos\CalculoAreaCirculo\CalculoAreaCirculo\bin\Debug\net8.0\CalculoAreaCirculo.deps.json
+C:\Users\alexi\source\repos\CalculoAreaCirculo\CalculoAreaCirculo\bin\Debug\net8.0\CalculoAreaCirculo.runtimeconfig.json
+C:\Users\alexi\source\repos\CalculoAreaCirculo\CalculoAreaCirculo\bin\Debug\net8.0\CalculoAreaCirculo.dll
+C:\Users\alexi\source\repos\CalculoAreaCirculo\CalculoAreaCirculo\bin\Debug\net8.0\CalculoAreaCirculo.pdb
+C:\Users\alexi\source\repos\CalculoAreaCirculo\CalculoAreaCirculo\obj\Debug\net8.0\CalculoAreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\CalculoAreaCirculo\CalculoAreaCirculo\obj\Debug\net8.0\CalculoAreaCirculo.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\CalculoAreaCirculo\CalculoAreaCirculo\obj\Debug\net8.0\CalculoAreaCirculo.AssemblyInfo.cs
+C:\Users\alexi\source\repos\CalculoAreaCirculo\CalculoAreaCirculo\obj\Debug\net8.0\CalculoAreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\CalculoAreaCirculo\CalculoAreaCirculo\obj\Debug\net8.0\CalculoAreaCirculo.dll
+C:\Users\alexi\source\repos\CalculoAreaCirculo\CalculoAreaCirculo\obj\Debug\net8.0\refint\CalculoAreaCirculo.dll
+C:\Users\alexi\source\repos\CalculoAreaCirculo\CalculoAreaCirculo\obj\Debug\net8.0\CalculoAreaCirculo.pdb
+C:\Users\alexi\source\repos\CalculoAreaCirculo\CalculoAreaCirculo\obj\Debug\net8.0\CalculoAreaCirculo.genruntimeconfig.cache
+C:\Users\alexi\source\repos\CalculoAreaCirculo\CalculoAreaCirculo\obj\Debug\net8.0\ref\CalculoAreaCirculo.dll

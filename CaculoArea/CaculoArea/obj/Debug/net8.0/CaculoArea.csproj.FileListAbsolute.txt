@@ -1,0 +1,14 @@
+C:\Users\alexi\source\repos\CaculoArea\CaculoArea\bin\Debug\net8.0\CaculoArea.exe
+C:\Users\alexi\source\repos\CaculoArea\CaculoArea\bin\Debug\net8.0\CaculoArea.deps.json
+C:\Users\alexi\source\repos\CaculoArea\CaculoArea\bin\Debug\net8.0\CaculoArea.runtimeconfig.json
+C:\Users\alexi\source\repos\CaculoArea\CaculoArea\bin\Debug\net8.0\CaculoArea.dll
+C:\Users\alexi\source\repos\CaculoArea\CaculoArea\bin\Debug\net8.0\CaculoArea.pdb
+C:\Users\alexi\source\repos\CaculoArea\CaculoArea\obj\Debug\net8.0\CaculoArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\CaculoArea\CaculoArea\obj\Debug\net8.0\CaculoArea.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\CaculoArea\CaculoArea\obj\Debug\net8.0\CaculoArea.AssemblyInfo.cs
+C:\Users\alexi\source\repos\CaculoArea\CaculoArea\obj\Debug\net8.0\CaculoArea.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\CaculoArea\CaculoArea\obj\Debug\net8.0\CaculoArea.dll
+C:\Users\alexi\source\repos\CaculoArea\CaculoArea\obj\Debug\net8.0\refint\CaculoArea.dll
+C:\Users\alexi\source\repos\CaculoArea\CaculoArea\obj\Debug\net8.0\CaculoArea.pdb
+C:\Users\alexi\source\repos\CaculoArea\CaculoArea\obj\Debug\net8.0\CaculoArea.genruntimeconfig.cache
+C:\Users\alexi\source\repos\CaculoArea\CaculoArea\obj\Debug\net8.0\ref\CaculoArea.dll
