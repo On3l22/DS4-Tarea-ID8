@@ -1,0 +1,14 @@
+C:\Users\alexi\source\repos\Operadores&String\Operadores&String\bin\Debug\net8.0\Operadores&String.exe
+C:\Users\alexi\source\repos\Operadores&String\Operadores&String\bin\Debug\net8.0\Operadores&String.deps.json
+C:\Users\alexi\source\repos\Operadores&String\Operadores&String\bin\Debug\net8.0\Operadores&String.runtimeconfig.json
+C:\Users\alexi\source\repos\Operadores&String\Operadores&String\bin\Debug\net8.0\Operadores&String.dll
+C:\Users\alexi\source\repos\Operadores&String\Operadores&String\bin\Debug\net8.0\Operadores&String.pdb
+C:\Users\alexi\source\repos\Operadores&String\Operadores&String\obj\Debug\net8.0\Operadores&String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\Operadores&String\Operadores&String\obj\Debug\net8.0\Operadores&String.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\Operadores&String\Operadores&String\obj\Debug\net8.0\Operadores&String.AssemblyInfo.cs
+C:\Users\alexi\source\repos\Operadores&String\Operadores&String\obj\Debug\net8.0\Operadores&String.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Operadores&String\Operadores&String\obj\Debug\net8.0\Operadores&String.dll
+C:\Users\alexi\source\repos\Operadores&String\Operadores&String\obj\Debug\net8.0\refint\Operadores&String.dll
+C:\Users\alexi\source\repos\Operadores&String\Operadores&String\obj\Debug\net8.0\Operadores&String.pdb
+C:\Users\alexi\source\repos\Operadores&String\Operadores&String\obj\Debug\net8.0\Operadores&String.genruntimeconfig.cache
+C:\Users\alexi\source\repos\Operadores&String\Operadores&String\obj\Debug\net8.0\ref\Operadores&String.dll

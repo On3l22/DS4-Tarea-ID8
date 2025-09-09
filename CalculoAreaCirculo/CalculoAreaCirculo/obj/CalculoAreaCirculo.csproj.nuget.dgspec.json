@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexi\\source\\repos\\CalculoAreaCirculo\\CalculoAreaCirculo\\CalculoAreaCirculo.csproj": {}
+    "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\CalculoAreaCirculo\\CalculoAreaCirculo\\CalculoAreaCirculo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexi\\source\\repos\\CalculoAreaCirculo\\CalculoAreaCirculo\\CalculoAreaCirculo.csproj": {
+    "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\CalculoAreaCirculo\\CalculoAreaCirculo\\CalculoAreaCirculo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexi\\source\\repos\\CalculoAreaCirculo\\CalculoAreaCirculo\\CalculoAreaCirculo.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\CalculoAreaCirculo\\CalculoAreaCirculo\\CalculoAreaCirculo.csproj",
         "projectName": "CalculoAreaCirculo",
-        "projectPath": "C:\\Users\\alexi\\source\\repos\\CalculoAreaCirculo\\CalculoAreaCirculo\\CalculoAreaCirculo.csproj",
+        "projectPath": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\CalculoAreaCirculo\\CalculoAreaCirculo\\CalculoAreaCirculo.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexi\\source\\repos\\CalculoAreaCirculo\\CalculoAreaCirculo\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\CalculoAreaCirculo\\CalculoAreaCirculo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

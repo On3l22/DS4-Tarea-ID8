@@ -1,5 +1,5 @@
 ﻿using System;
-//Calculo del area de un triangulo.
+//Calculo del area de un rectangulo.
 class Program //Clase
 {
     static void Main(string[] args)//Main
@@ -16,6 +16,9 @@ class Program //Clase
 
         var areaRec = baseRec * alturaRec; //calculo
         Console.WriteLine($"El área del triangulo es: {areaRec}");
+
     }
+
+
 }
 
