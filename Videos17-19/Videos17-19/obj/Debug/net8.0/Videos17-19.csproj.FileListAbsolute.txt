@@ -1,0 +1,15 @@
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\Videos17-19\Videos17-19\bin\Debug\net8.0\Videos17-19.exe
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\Videos17-19\Videos17-19\bin\Debug\net8.0\Videos17-19.deps.json
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\Videos17-19\Videos17-19\bin\Debug\net8.0\Videos17-19.runtimeconfig.json
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\Videos17-19\Videos17-19\bin\Debug\net8.0\Videos17-19.dll
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\Videos17-19\Videos17-19\bin\Debug\net8.0\Videos17-19.pdb
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\Videos17-19\Videos17-19\obj\Debug\net8.0\Videos17-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\Videos17-19\Videos17-19\obj\Debug\net8.0\Videos17-19.AssemblyInfoInputs.cache
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\Videos17-19\Videos17-19\obj\Debug\net8.0\Videos17-19.AssemblyInfo.cs
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\Videos17-19\Videos17-19\obj\Debug\net8.0\Videos17-19.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\Videos17-19\Videos17-19\obj\Debug\net8.0\Videos17-19.sourcelink.json
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\Videos17-19\Videos17-19\obj\Debug\net8.0\Videos17-19.dll
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\Videos17-19\Videos17-19\obj\Debug\net8.0\refint\Videos17-19.dll
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\Videos17-19\Videos17-19\obj\Debug\net8.0\Videos17-19.pdb
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\Videos17-19\Videos17-19\obj\Debug\net8.0\Videos17-19.genruntimeconfig.cache
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\Videos17-19\Videos17-19\obj\Debug\net8.0\ref\Videos17-19.dll

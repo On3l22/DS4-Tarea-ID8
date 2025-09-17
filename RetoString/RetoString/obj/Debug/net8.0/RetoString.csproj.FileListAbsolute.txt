@@ -1,0 +1,15 @@
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\RetoString\RetoString\bin\Debug\net8.0\RetoString.exe
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\RetoString\RetoString\bin\Debug\net8.0\RetoString.deps.json
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\RetoString\RetoString\bin\Debug\net8.0\RetoString.runtimeconfig.json
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\RetoString\RetoString\bin\Debug\net8.0\RetoString.dll
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\RetoString\RetoString\bin\Debug\net8.0\RetoString.pdb
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\RetoString\RetoString\obj\Debug\net8.0\RetoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\RetoString\RetoString\obj\Debug\net8.0\RetoString.AssemblyInfoInputs.cache
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\RetoString\RetoString\obj\Debug\net8.0\RetoString.AssemblyInfo.cs
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\RetoString\RetoString\obj\Debug\net8.0\RetoString.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\RetoString\RetoString\obj\Debug\net8.0\RetoString.sourcelink.json
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\RetoString\RetoString\obj\Debug\net8.0\RetoString.dll
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\RetoString\RetoString\obj\Debug\net8.0\refint\RetoString.dll
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\RetoString\RetoString\obj\Debug\net8.0\RetoString.pdb
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\RetoString\RetoString\obj\Debug\net8.0\RetoString.genruntimeconfig.cache
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\RetoString\RetoString\obj\Debug\net8.0\ref\RetoString.dll
