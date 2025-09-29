@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\alexi\\documents\\svg\\ds4-tarea-id8\\superheroesapp\\superheroesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\alexi\\documents\\svg\\ds4-tarea-id8\\superheroesapp\\superheroesapp\\imprimir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\imprimir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\alexi\\documents\\svg\\ds4-tarea-id8\\superheroesapp\\superheroesapp\\interfaces\\isuperheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\interfaces\\isuperheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\alexi\\documents\\svg\\ds4-tarea-id8\\superheroesapp\\superheroesapp\\models\\heroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\models\\heroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\alexi\\documents\\svg\\ds4-tarea-id8\\superheroesapp\\superheroesapp\\models\\superheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\models\\superheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\alexi\\documents\\svg\\ds4-tarea-id8\\superheroesapp\\superheroesapp\\models\\antiheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\models\\antiheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\alexi\\documents\\svg\\ds4-tarea-id8\\superheroesapp\\superheroesapp\\models\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\models\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|c:\\users\\alexi\\documents\\svg\\ds4-tarea-id8\\superheroesapp\\superheroesapp\\superheroesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{095B2B09-BCF9-4507-BF63-51EB013FC172}|SuperHeroesApp\\SuperHeroesApp.csproj|solutionrelative:superheroesapp\\superheroesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Heroe.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\Models\\Heroe.cs",
+              "RelativeDocumentMoniker": "SuperHeroesApp\\Models\\Heroe.cs",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\Models\\Heroe.cs",
+              "RelativeToolTip": "SuperHeroesApp\\Models\\Heroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:05:04.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuperHeroe.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\Models\\SuperHeroe.cs",
+              "RelativeDocumentMoniker": "SuperHeroesApp\\Models\\SuperHeroe.cs",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\Models\\SuperHeroe.cs",
+              "RelativeToolTip": "SuperHeroesApp\\Models\\SuperHeroe.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:49:21.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Imprimir.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\Imprimir.cs",
+              "RelativeDocumentMoniker": "SuperHeroesApp\\Imprimir.cs",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\Imprimir.cs",
+              "RelativeToolTip": "SuperHeroesApp\\Imprimir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:03:48.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\Program.cs",
+              "RelativeDocumentMoniker": "SuperHeroesApp\\Program.cs",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\Program.cs",
+              "RelativeToolTip": "SuperHeroesApp\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:42:40.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AntiHeroe.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\Models\\AntiHeroe.cs",
+              "RelativeDocumentMoniker": "SuperHeroesApp\\Models\\AntiHeroe.cs",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\Models\\AntiHeroe.cs",
+              "RelativeToolTip": "SuperHeroesApp\\Models\\AntiHeroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:30:23.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISuperHeroe.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\Interfaces\\ISuperHeroe.cs",
+              "RelativeDocumentMoniker": "SuperHeroesApp\\Interfaces\\ISuperHeroe.cs",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\Interfaces\\ISuperHeroe.cs",
+              "RelativeToolTip": "SuperHeroesApp\\Interfaces\\ISuperHeroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:52:23.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuperPoder.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\Models\\SuperPoder.cs",
+              "RelativeDocumentMoniker": "SuperHeroesApp\\Models\\SuperPoder.cs",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\Models\\SuperPoder.cs",
+              "RelativeToolTip": "SuperHeroesApp\\Models\\SuperPoder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:48:36.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuperHeroesApp.csproj",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\SuperHeroesApp.csproj",
+              "RelativeDocumentMoniker": "SuperHeroesApp\\SuperHeroesApp.csproj",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\SuperHeroesApp\\SuperHeroesApp\\SuperHeroesApp.csproj",
+              "RelativeToolTip": "SuperHeroesApp\\SuperHeroesApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T13:47:31.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

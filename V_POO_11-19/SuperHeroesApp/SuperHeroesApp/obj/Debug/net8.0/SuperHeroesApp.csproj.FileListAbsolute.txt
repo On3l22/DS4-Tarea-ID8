@@ -1,0 +1,15 @@
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.exe
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.deps.json
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.runtimeconfig.json
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.dll
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.pdb
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.AssemblyInfoInputs.cache
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.AssemblyInfo.cs
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.sourcelink.json
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.dll
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\refint\SuperHeroesApp.dll
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.pdb
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.genruntimeconfig.cache
+C:\Users\alexi\Documents\SVG\DS4-Tarea-ID8\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\ref\SuperHeroesApp.dll

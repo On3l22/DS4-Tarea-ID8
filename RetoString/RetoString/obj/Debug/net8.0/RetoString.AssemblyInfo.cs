@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetoString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b73d1eb0af43a0769b77526d4bc087350e178e53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fd27e887bc6225fce77b2a5fa38375d1b802081")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetoString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetoString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
