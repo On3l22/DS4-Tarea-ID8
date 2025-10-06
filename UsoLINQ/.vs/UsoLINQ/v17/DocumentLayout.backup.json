@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\UsoLINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{211B655F-4727-428C-8E4D-373879352104}|UsoLINQ\\UsoLINQ.csproj|c:\\users\\alexi\\documents\\svg\\ds4-tarea-id8\\usolinq\\usolinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211B655F-4727-428C-8E4D-373879352104}|UsoLINQ\\UsoLINQ.csproj|solutionrelative:usolinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211B655F-4727-428C-8E4D-373879352104}|UsoLINQ\\UsoLINQ.csproj|c:\\users\\alexi\\documents\\svg\\ds4-tarea-id8\\usolinq\\usolinq\\linqqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211B655F-4727-428C-8E4D-373879352104}|UsoLINQ\\UsoLINQ.csproj|solutionrelative:usolinq\\linqqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211B655F-4727-428C-8E4D-373879352104}|UsoLINQ\\UsoLINQ.csproj|c:\\users\\alexi\\documents\\svg\\ds4-tarea-id8\\usolinq\\usolinq\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211B655F-4727-428C-8E4D-373879352104}|UsoLINQ\\UsoLINQ.csproj|solutionrelative:usolinq\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211B655F-4727-428C-8E4D-373879352104}|UsoLINQ\\UsoLINQ.csproj|c:\\users\\alexi\\documents\\svg\\ds4-tarea-id8\\usolinq\\usolinq\\usolinq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{211B655F-4727-428C-8E4D-373879352104}|UsoLINQ\\UsoLINQ.csproj|solutionrelative:usolinq\\usolinq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\UsoLINQ\\UsoLINQ\\Book.cs",
+              "RelativeDocumentMoniker": "UsoLINQ\\Book.cs",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\UsoLINQ\\UsoLINQ\\Book.cs",
+              "RelativeToolTip": "UsoLINQ\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:41:00.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinqQueries.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\UsoLINQ\\UsoLINQ\\LinqQueries.cs",
+              "RelativeDocumentMoniker": "UsoLINQ\\LinqQueries.cs",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\UsoLINQ\\UsoLINQ\\LinqQueries.cs*",
+              "RelativeToolTip": "UsoLINQ\\LinqQueries.cs*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwGQAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T17:13:44.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\UsoLINQ\\UsoLINQ\\Program.cs",
+              "RelativeDocumentMoniker": "UsoLINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\UsoLINQ\\UsoLINQ\\Program.cs*",
+              "RelativeToolTip": "UsoLINQ\\Program.cs*",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwFoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:36:34.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsoLINQ.csproj",
+              "DocumentMoniker": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\UsoLINQ\\UsoLINQ\\UsoLINQ.csproj",
+              "RelativeDocumentMoniker": "UsoLINQ\\UsoLINQ.csproj",
+              "ToolTip": "C:\\Users\\alexi\\Documents\\SVG\\DS4-Tarea-ID8\\UsoLINQ\\UsoLINQ\\UsoLINQ.csproj",
+              "RelativeToolTip": "UsoLINQ\\UsoLINQ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-05T20:12:36.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
